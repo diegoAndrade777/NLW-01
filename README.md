@@ -2,7 +2,9 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="web/src/assets/logoNLW.svg" width="250px" />
 </h1>
 <h1 align="center">Next Level Week 01</h1>
-<p align="center">Project <strong>Ecoleta</strong> developed during the Rocketseat Next Level Week 01</p>
+<p align="center">Project <strong>Ecoleta</strong> developed during the Rocketseat Next Level Week 01.
+    Ecoleta is a project developed based on international environment week. That aims to connect people to companies that collect           specific waste such as light bulbs, batteries, cooking oil, etc.
+</p>
 
 <p align="center">
   <a aria-label="NodeJs version" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
