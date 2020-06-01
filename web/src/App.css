@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+  font: 400 14px Roboto, sans-serif;
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--title-color);
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Box Model 
+Modelo de caixa
+Toda caixa tem
+largura, altura, espaçamento, preenchimento
+bordas, cor, fundo, maneira que é vista pelo html (display) 
+posicionamentos, alinhamentos
+*/
+.App {
+    height: 100vh;
+    background: url('../assets/home-background.svg') no-repeat;
+    background-position: 35vw bottom;
+}
+
+.App .content {
+    width: 90%;
+    max-width: 1100px;
+    height: 100%;
+
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.App header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.App header a {
+    display: flex;
+    color: var(--title-color);
+    font-weight: 700;
+
+    text-decoration: none;
+}
+
+.App header a span {
+    margin-right: 16px;
+    display: flex;
+    
+    background-image: url('../assets/log-in.svg');
+
+    width: 20px;
+    height: 20px;
+}
+
+.App main {
+    max-width: 560px;
+
+    height: 600px;
+
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.App main h1 {
+    font-size: 54px;
+}
+
+.App main p {
+    font-size: 24px;
+    line-height: 38px;
+    margin-top: 24px;
+}
+
+.App main a{
+    width: 100%;
+    max-width: 360px;
+    height: 72px;
+
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+
+    margin-top: 40px;
+
+    background-color: var(--primary-color);
+
+    transition: 400ms;
+}
+
+.App main a:hover {
+    background-color: #2fb26e;
+}
+
+.App main a span{
+    width: 72px;
+    height: 72px;
+    background-color: rgba(0, 0, 0, 0.08);
+
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.App main a span::after {
+    content: "";
+    background-image: url('../assets/search.svg');
+
+    width: 20px;
+    height: 20px;
+}
