@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
   <h1 align="center">
+    In Progress...
     <img alt="In Progress" title="#In Progress" src="web/src/assets/preloader1.gif" width="250px" />
   </h1>  
   <img src="web/src/assets/NLW01.png" align="center"></img>
