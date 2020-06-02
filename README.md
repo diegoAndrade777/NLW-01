@@ -15,7 +15,7 @@
   </a>
   <h1 align="center">In Progress... BackEnd Done!</h1>
   <h1 align="center">
-    <img alt="In Progress" title="#In Progress" src="web/src/assets/preloader1.gif" width="250px" />
+    <img alt="In Progress" title="#In Progress" src="web/src/assets/preloader1.gif" width="350px" />
   </h1>  
   <img src="web/src/assets/NLW01.png" align="center"></img>
 </p>
