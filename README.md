@@ -15,7 +15,7 @@
   </a>
   <h1 align="center">In Progress... BackEnd Done!</h1>
   <h1 align="center">
-    <img alt="In Progress" title="#In Progress" src="web/src/assets/preloader1.gif" width="800px" />
+    <img alt="In Progress" title="#In Progress" src="web/src/assets/preloader1.gif" width="250px" />
   </h1>  
   <img src="web/src/assets/NLW01.png" align="center"></img>
 </p>
@@ -30,7 +30,7 @@ npm run dev
 
 ## Backend
 
-<img align="center" src="web/src/assets/nlw01-backend.gif" width="250px"></img>
+<img align="center" src="web/src/assets/nlw01-backend.gif" width="600px"></img>
 
 ## Licence
 
