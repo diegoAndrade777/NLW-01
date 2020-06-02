@@ -30,7 +30,7 @@ npm run dev
 
 ## Backend
 
-<img align="center" src="web/src/assets/nlw01-backend.gif"></img>
+<img align="center" src="web/src/assets/nlw01-backend.gif" width="250px"></img>
 
 ## Licence
 
