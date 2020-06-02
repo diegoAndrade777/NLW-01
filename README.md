@@ -20,6 +20,18 @@
   <img src="web/src/assets/NLW01.png" align="center"></img>
 </p>
 
+## Instalation
+To install the dependencies and to execute the **Backend**, clone the project on your computer an execute:
+```bash
+cd server
+npm install
+npm run dev
+```
+
+## Backend
+
+<img align="center" src="./static/backend.gif"></img>
+
 ## Licence
 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
