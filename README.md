@@ -32,16 +32,14 @@ npm run dev
 
 <img align="center" src="web/src/assets/nlw01-backend.gif" width="600px"></img>
 
-## Instalation
-To install the dependencies and to execute the **Frontend**, clone the project on your computer an execute:
+## Frontend
+
+To run the React's Frontend use:
 ```bash
 cd web
 npm install
 npm start
 ```
-
-## Frontend
-
 <img align="center" src="web/src/assets/Gravar-_10.gif" width="600px"></img>
 
 ## Licence
