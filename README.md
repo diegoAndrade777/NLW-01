@@ -72,7 +72,7 @@ $ npm start
 
 # Expo will open, just scan the qrcode on terminal or expo page
 ```
-<img align="center" src="web/src/assets/mobile.gif"></img>
+<img align="center" src="web/src/assets/mobile.gif" width="400px"></img>
 
 ## Licence
 
