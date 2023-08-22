@@ -78,4 +78,4 @@ $ npm start
 
 [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
 
-Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-rodrigo-de-andrade-98a0271a0/)
+Made with ♥ by Diego Andrade :wave: [Get in touch!](https://www.linkedin.com/in/diego-r-andrade/)
